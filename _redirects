@@ -1,2 +1,7 @@
 /api/*  https://jiosaavnapi.bhadoo.uk/result/:splat  200
-/cdn/*  https://sklktcdnems02.cdnsrv.jio.com/c.saavncdn.com/:splat  200
+/cdn/1/*  https://sklktcdnems01.cdnsrv.jio.com/h.saavncdn.com/:splat  200
+/cdn/2/*  https://sklktcdnems02.cdnsrv.jio.com/h.saavncdn.com/:splat  200
+/cdn/3/*  https://sklktcdnems03.cdnsrv.jio.com/h.saavncdn.com/:splat  200
+/cdn/4/*  https://sklktcdnems04.cdnsrv.jio.com/h.saavncdn.com/:splat  200
+/cdn/5/*  https://sklktcdnems05.cdnsrv.jio.com/h.saavncdn.com/:splat  200
+/cdn/6/*  https://sklktcdnems06.cdnsrv.jio.com/h.saavncdn.com/:splat  200
